@@ -1,0 +1,31 @@
+.home {
+  background: #2d2013;
+  min-height: 100vh;
+}
+.title {
+  background: #23180d;
+  text-align: center;
+  padding: 8px 10px;
+  color: white;
+}
+.links {
+  padding: 2rem 4rem;
+}
+.links a {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+.links a:hover{
+    text-decoration: underline;
+}
+.links a li {
+  padding: 0.5rem 1rem;
+  background: #e83a3b !important;
+  border-radius: 0.4rem;
+  padding-right: 2.8rem;
+}
